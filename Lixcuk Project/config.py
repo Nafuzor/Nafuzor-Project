@@ -1,7 +1,7 @@
 import os
 
 # ТОКЕН ДЛЯ ВТОРОГО БОТА (LIXCUK)
-BOT_TOKEN = "8449647302:AAGEeiS5vFpPnFLsMwFsjvQTkiHFSKFACak" # <-- ВСТАВЬ СЮДА ТОКЕН LIXCUK
+BOT_TOKEN = "токне бота" # <-- ВСТАВЬ СЮДА ТОКЕН LIXCUK
 ADMIN_ID = 7063766212
 
 # Ссылка на первого бота для подключения карты
